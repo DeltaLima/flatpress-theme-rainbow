@@ -1,4 +1,4 @@
-# flatpress-theme-snail-orange
+# flatpress-theme-rainbow
 
 Origin: https://git.la10cy.net/DeltaLima/flatpress-theme-rainbow
 

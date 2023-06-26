@@ -2,7 +2,7 @@
 
 /*  
 Theme Name: Rainbow Theme
-Original Author: Stealth Settings http://www.stealthsettings.com (ported to FP by Marcoverga)
+Original Author: Stealth Settings http://www.stealthsettings.com (ported to FP by Marcoverga, modified tp Rainbow Theme by DeltaLima in 2023)
 Author URI: https://deltalima.org
 Description: 2-column theme, with orange/transparent look and widget bar on the left with colorful background (stolen from https://websitesetup.org/bootstrap-tutorial-for-beginners/)
 Version: 0.9

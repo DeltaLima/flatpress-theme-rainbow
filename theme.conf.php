@@ -1,19 +1,20 @@
 <?php
 
 /*  
-Theme Name: Snail-orange
-Original Author: Stealth Settings (ported to FP by Marcoverga)
-Author URI: http://www.stealthsettings.com
-Description: 2-column theme, with blue/grey look and widget bar on the left
-Version: 1.1
+Theme Name: Rainbow Theme
+Original Author: Stealth Settings http://www.stealthsettings.com (ported to FP by Marcoverga)
+Author URI: https://deltalima.org
+Description: 2-column theme, with orange/transparent look and widget bar on the left with colorful background (stolen from https://websitesetup.org/bootstrap-tutorial-for-beginners/)
+Version: 0.9
 FP Version Author: Marcoverga
 FP Version URI: http://marcoverga86.netsons.org
+Forked by DeltaLima in 2023 to "Rainbow Theme"
 */
 
-	$theme['name'] = 'Snail-orange Theme';
-	$theme['author'] = 'marcoverga86';
-	$theme['www'] = 'http://marcoverga86.netsons.org';
-	$theme['version'] = 0.803;
+	$theme['name'] = 'Rainbow Theme';
+	$theme['author'] = 'DeltaLima';
+	$theme['www'] = 'https://deltalima.org';
+	$theme['version'] = 0.9;
 	$theme['style_def'] = 'style.css';
 	$theme['style_admin'] = 'admin.css';
 	

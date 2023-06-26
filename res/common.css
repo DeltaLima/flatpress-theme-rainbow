@@ -1,7 +1,7 @@
 /*
-Theme Name: Snail-orange
+Theme Name: Rainbow
 Author: Marcoverga86, DeltaLima
-Version: 2.0
+Version: 2.2
 Module: common.css
 */
 
@@ -48,16 +48,10 @@ pre, code {
 
 pre {
 
-	/* border-top: 1px solid #ddd;
-	border-bottom: 1px solid #ddd; */
-	/*background-color: #efefef;*/
-	/*  background-color: #a8a8a8;*/
-	/*border-bottom: 1px solid #555;*/
 	border: 1px solid #555;
 	/*background-color: #444444;*/
 	
-	/* ubuntu terminal background color */
-	background: #380c2a; 
+	background-color: rgba(0, 0, 0, 0.3);
 	color: #CCCCCC;
 	overflow: auto;
 	width: 90%;
@@ -65,6 +59,12 @@ pre {
 	padding: 5px 10px;
 	border-radius: 5px;
 	box-shadow: 3px 3px 6px black;
+}
+
+:not(pre) > code {
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 3px;
+	padding: 0px 3px;
 }
 
 ul, li, ol { margin: 0; padding: 0 }
@@ -86,7 +86,7 @@ legend {
 
 input, textarea {
 	padding: .1em;
-    border: 1px solid #315A94;;
+	border: 1px solid #315A94;;
 	font-family: 'Trebuchet MS', Tahoma, 'Times New Roman';
 }
 
@@ -108,20 +108,20 @@ textarea {
 	width: 99%;
 	margin-top: .1em;
 	margin-bottom: 1em;
-    background-color: #999999;
+	background-color: #999999;
 }
 
 /* ===== LINKS GENERAL ===== */
 a:link, a:visited {
 	/*color: #0066ff;*/
-  color: #e69138;
+	color: #e69138;
 	font-weight: bold;
 	text-decoration: none
 }
 
 a:hover {
 	/*color: #1100FF;*/
-  color: #f6b26b;
+	color: #f6b26b;
 	text-decoration: underline
 }
 
@@ -173,12 +173,12 @@ h6 { font-size: 0.9em }
 	padding-right: 10px;
 	padding-top: 3px;
 	float: right;
+
 }
 #logo-img {
 	/*background: url("../imgs/Mandrake-Tux_redraw.png");*/
-
-	height: 120px;
-
+	max-height: 120px;
+	max-width: 90px;
 }
 
 #clear-container {
@@ -208,8 +208,8 @@ h6 { font-size: 0.9em }
 
 #main {
 	/*float:right;*/
-  overflow: hidden;
-  display: inline-block;
+	overflow: hidden;
+	display: inline-block;
 	position: relative;
 	width: 73% !important;
 	width: 73%;

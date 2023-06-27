@@ -17,11 +17,11 @@ $ git clone https://git.la10cy.net/DeltaLima/flatpress-theme-rainbow fp-interfac
 
 ## Screenshot
 
+![Preview](preview-large.png)
+
 ## Demo
 
 Please visit my website for a demo :) : https://deltalima.org
-
-![Preview](preview-large.png)
 
 ## Known issue
 

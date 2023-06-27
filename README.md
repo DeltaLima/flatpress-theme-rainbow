@@ -12,7 +12,7 @@ Download the latest **[release](https://git.la10cy.net/DeltaLima/flatpress-theme
 
 Or use `git clone`
 ```bash
-$ git clone https://git.la10cy.net/DeltaLima/flatpress-theme-rainbow fp-interface/themes/rainbow/
+$ git clone https://git.la10cy.net/DeltaLima/flatpress-theme-rainbow /path/to/flatpress/fp-interface/themes/rainbow/
 ```
 
 ## Screenshot

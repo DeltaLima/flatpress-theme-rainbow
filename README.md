@@ -6,6 +6,20 @@ Rainbow theme for [FlatPress](flatpress.org) I stole the colorful background fro
 
 forked from https://wiki.flatpress.org/res:themes:snail
 
+## Download
+
+Please head over to the **[Releases](https://git.la10cy.net/DeltaLima/flatpress-theme-rainbow/releases)**
+
+Or use `git clone`
+```bash
+$ git clone https://git.la10cy.net/DeltaLima/flatpress-theme-rainbow fp-interface/themes/rainbow/
+```
+
+## Screenshot
+
+## Demo
+
+Please visit my website for a demo :) : https://deltalima.org
 
 ![Preview](preview-large.png)
 

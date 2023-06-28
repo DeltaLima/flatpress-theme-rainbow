@@ -64,7 +64,7 @@ pre {
 :not(pre) > code {
 	background-color: rgba(0, 0, 0, 0.3);
 	border-radius: 3px;
-	padding: 0px 3px;
+	padding: 3px 4px;
 }
 
 ul, li, ol { margin: 0; padding: 0 }

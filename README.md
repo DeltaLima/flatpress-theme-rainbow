@@ -2,7 +2,9 @@
 
 Origin: https://git.la10cy.net/DeltaLima/flatpress-theme-rainbow
 
-Rainbow theme for [FlatPress](flatpress.org) I stole the colorful background from https://websitesetup.org/bootstrap-tutorial-for-beginners/ :)
+Rainbow theme for [FlatPress](flatpress.org)
+
+The wonderful background image is from [Pixbay user Manuchi](https://pixabay.com/illustrations/colorful-rainbow-gradient-geometric-2174045/) - Thank you very much! <3
 
 forked from https://wiki.flatpress.org/res:themes:snail
 

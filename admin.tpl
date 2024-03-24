@@ -1,4 +1,4 @@
-{include file=cpheader.tpl}
+{include file="cpheader.tpl"}
 	<div id="cpmain">
 		<div class="entry">
 		<ul id="admin-small-nav">
@@ -12,4 +12,4 @@
 		{/page}
     	</div>
 </div>
-{include file=footer.tpl}
+{include file="footer.tpl"}

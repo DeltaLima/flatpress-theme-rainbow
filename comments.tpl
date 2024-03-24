@@ -1,8 +1,8 @@
-{include file=header.tpl}
+{include file="header.tpl"}
 	<div id="main">
 		{entry_block}
     		{entry}
-        		{include file=entry-default.tpl}
+        		{include file="entry-default.tpl"}
         		{comment_block}
                		<ol id="comments">
             		{comment}
@@ -11,7 +11,7 @@
             					{$url|notempty:"<a href=\"$url\" title=\"Permalink to $name's comment\">$name"|default:$name}</a>
             				</strong>
 
-							{include file=shared:commentadminctrls.tpl} {* this shows edit/delete links*}
+							{include file="shared:commentadminctrls.tpl"} {* this shows edit/delete links*}
 							
             				<div class="date">
                                {$date|date_format:"%B %d, %Y - %H:%M"}
@@ -29,8 +29,8 @@
 			     {nextpage}{prevpage}
             </div>
         {/entry_block}
-    {include file="shared:comments.tpl"}
+    {include file=""shared:comments.tpl""}
 	</div>
-{include file=widgets.tpl}
+{include file="widgets.tpl"}
 <hr />
-{include file=footer.tpl}
+{include file="footer.tpl"}

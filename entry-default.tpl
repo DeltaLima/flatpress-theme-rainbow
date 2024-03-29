@@ -6,6 +6,6 @@
     {$content|tag:the_content}
 
     <ul class="entry-footer">
-        <a href="{$id|link:comments_link}#comments">{$comments|tag:comments_number} {if $views}(<strong>{$views}</strong> views)</a>{/if}
+        <a href="{$id|link:comments_link}#comments">{$comments|tag:comments_number} {if isset($views)}(<strong>{$views}</strong> views)</a>{/if}
     </ul>
 </div>
